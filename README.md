@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Basic Rock, Paper, Scissors app only logs to console.
+Basic Rock, Paper, Scissors | only logs to console.
